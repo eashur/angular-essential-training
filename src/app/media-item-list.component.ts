@@ -14,7 +14,7 @@ export class MediaItemListComponent {
       category: 'Science Fiction',
       year: 2010,
       watchedOn: 1294166565384,
-      isFavorite: false
+      isFavorite: true
     },
     {
       id: 2,
